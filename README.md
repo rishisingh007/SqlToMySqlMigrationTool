@@ -4,7 +4,7 @@ A Windows Forms app to migrate schema and data from MS SQL Server to MySQL.
 <table>
   <tr>
     <td>
-      <img width="297" height="389" src="https://github.com/rishisingh007/SqlToMySqlMigrationTool/blob/main/Screenshots/Help-About.png"></img>
+      <img width="389" height="297" src="https://github.com/rishisingh007/SqlToMySqlMigrationTool/blob/main/Screenshots/Help-About.png"></img>
     </td>
   </tr>
 </table>
