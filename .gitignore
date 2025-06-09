@@ -1,0 +1,8 @@
+# Ignore build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.exe
+*.dll
+.vs/
