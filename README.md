@@ -11,8 +11,6 @@ A Windows Forms app to migrate schema and data from MS SQL Server to MySQL.
     </td>
   </tr>
 </table>
-![alt text]()
-![alt text](https://github.com/rishisingh007/SqlToMySqlMigrationTool/blob/main/Screenshots/Main%20Screen.png)
 
 ## Features
 - Connection test for SQL Server and MySQL
