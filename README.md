@@ -24,6 +24,7 @@ A Windows Forms app to migrate schema and data from MS SQL Server to MySQL.
     </td>
   </tr>
 </table>
+
 1. Fill in connection details for both databases
 2. Test connections
 3. Click "Migrate Schema" to create tables
